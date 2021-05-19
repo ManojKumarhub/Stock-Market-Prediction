@@ -1,0 +1,2 @@
+# Stock-Market-Prediction
+Stock market prediction is an act of trying to determine the future value of a stock other financial instrument traded on a financial exchange. The prediction of a stock using Machine Learning. The technical and fundamental or the time series analysis is used by the most of the stockbrokers while making the stock predictions. The programming language is used to predict the stock market using machine learning is Python.
